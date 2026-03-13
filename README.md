@@ -147,7 +147,6 @@ A `WebApplication` schema is embedded using JSON-LD, providing rich context to G
 ### Sitemap & Robots
 - `sitemap.xml` — Declares the canonical URL with monthly change frequency and priority 1.0
 - `robots.txt` — Allows all crawlers and points them to the sitemap
-- `google995908b54b470397.html` — Google Search Console ownership verification
 
 ---
 
